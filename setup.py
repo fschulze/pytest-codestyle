@@ -6,7 +6,7 @@ version = open('VERSION').read().strip()
 long_description = open('README.md').read()
 
 setup(
-    name='pytest-codestyle',
+    name='pytest-pycodestyle',
     version=version,
     description='pytest plugin to run pycodestyle',
     long_description=long_description,
